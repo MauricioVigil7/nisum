@@ -1,0 +1,17 @@
+com\nisum\usuario\model\UserResponse.class
+com\nisum\usuario\model\Usuario.class
+com\nisum\usuario\common\ErrorMessage.class
+com\nisum\usuario\service\JwtUsuarioDetailsService.class
+com\nisum\usuario\service\UsuarioService.class
+com\nisum\usuario\auth\JwtAuthenticationEntryPoint.class
+com\nisum\usuario\auth\WebSecurityConfig.class
+com\nisum\usuario\auth\JwtRequestFilter.class
+com\nisum\usuario\config\SwaggerConfig.class
+com\nisum\usuario\controller\UsuarioController.class
+com\nisum\usuario\auth\JwtTokenUtil.class
+com\nisum\usuario\repository\UsuarioRepository.class
+com\nisum\usuario\model\JwtResponse.class
+com\nisum\usuario\model\Telefono.class
+com\nisum\usuario\controller\JwtAuthenticationController.class
+com\nisum\usuario\model\JwtRequest.class
+com\nisum\usuario\UsuarioApplication.class

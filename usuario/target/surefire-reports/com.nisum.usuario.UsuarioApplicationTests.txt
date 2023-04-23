@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nisum.usuario.UsuarioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.114 s - in com.nisum.usuario.UsuarioApplicationTests
